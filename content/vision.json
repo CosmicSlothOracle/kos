@@ -1,0 +1,14 @@
+{
+  "content": "Hallo.",
+  "translations": {
+    "en": "Hello.",
+    "tr": "Merhaba.",
+    "ru": "Привет.",
+    "ar": "مرحبًا."
+  },
+  "section_info": {
+    "id": "vision",
+    "name": "Vision",
+    "translation_key": "vision-description"
+  }
+}

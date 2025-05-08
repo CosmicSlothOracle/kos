@@ -1,0 +1,9 @@
+Auflistung der Ordnerpfade für Volume Windows 
+Volumeseriennummer : D4B4-B5A2
+C:\USERS\SKANK\KOSGE\BACKEND
+    app.py
+    project_structure_backend.txt
+    requirements.txt
+    
+Es sind keine Unterordner vorhanden 
+
